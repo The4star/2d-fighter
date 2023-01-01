@@ -2,6 +2,8 @@
 
 A 2d fighter game written in Typescript and sass using html canvas.
 
+![Screenshot](./docs/screenshot.png)
+
 ## Install dependencies
 
 - [typescript](https://www.typescriptlang.org/download)
