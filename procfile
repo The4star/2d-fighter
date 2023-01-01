@@ -1,0 +1,3 @@
+sass: sass --watch src/styles:lib/styles
+tsc: tsc --watch
+serve: serve -p 3000
